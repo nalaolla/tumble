@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/../tumble-bo/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../tumble-bo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../tumble-common/pom.xml" />
       </list>
     </option>
   </component>
